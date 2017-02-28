@@ -225,3 +225,15 @@
 	font-weight: bold;
 	font-size: 12px;
 }
+.star-line:before { 
+	position: relative;
+	bottom: 17px;
+	content:"___"; 
+	font-size: 45px;
+}
+.star-line:after { 
+	position: relative;
+	bottom: 17px;
+	content:"___"; 
+	font-size: 45px;
+}
